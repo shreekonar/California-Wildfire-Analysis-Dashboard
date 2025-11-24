@@ -46,9 +46,6 @@ Raw and processed datasets
 
 Dashboard screenshots
 
-Python cleaning scripts
-
-README with full documentation
 
 🚀 Objective
 
