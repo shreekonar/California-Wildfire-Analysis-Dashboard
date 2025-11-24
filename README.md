@@ -39,6 +39,7 @@ GIS Mapping – county-level spatial insight
 📂 Contents
 
 Power BI Dashboard (.pbix)
+https://app.powerbi.com/view?r=eyJrIjoiODM5YmEzZTUtZjNkYy00NmY1LWJkNmQtMzY2ZTAwOTE1NDk2IiwidCI6ImJkYjc0YjMwLTk1NjgtNDg1Ni1iZGJmLTA2NzU5Nzc4ZmNiYyIsImMiOjh9
 
 Preprocessing Notebook
 
