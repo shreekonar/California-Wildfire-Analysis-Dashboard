@@ -30,7 +30,7 @@ Power BI – dashboard, mapping, KPIs
 
 Python (Pandas) – preprocessing & cleaning
 
-CSV (Kaggle dataset) – wildfire incident records
+CSV (Kaggle dataset) – wildfire incident records 
 
 Jupyter Notebook – data preparation workflow
 
